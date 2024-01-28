@@ -57,3 +57,6 @@
 
 </body>
 </html>
+
+![image](https://github.com/hardik5555/Simple-Calculator/assets/103363985/c7cf5de7-4ae2-49a4-9574-19c4349e2abc)
+
